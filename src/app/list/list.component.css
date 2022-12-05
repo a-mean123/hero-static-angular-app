@@ -1,0 +1,19 @@
+
+.bg-red{
+    background-color: rgb(237, 13, 106);
+}
+
+
+.bg-blue{
+    background-color: rgb(18, 116, 220);
+}
+
+
+.bg-green{
+    background-color: rgb(9, 184, 128);
+}
+
+
+img{
+    height: 160px;
+}
